@@ -1,7 +1,7 @@
 # Jarkom-Modul-3-B14-2021
 
 ## Topologi
-![image](https://user-images.githubusercontent.com/45300477/141605090-0f80fb7f-5dd5-4a90-b527-befc27f53e2d.png)
+![image](https://user-images.githubusercontent.com/45300477/141605090-0f80fb7f-5dd5-4a90-b527-befc27f53e2d.png)<br>
 Konfigurasi:
 - Foosha
 ```
