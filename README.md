@@ -104,10 +104,10 @@ echo 'subnet 10.14.1.0 netmask 255.255.255.0 {
     max-lease-time 7200;
 }
 ```
-IP untuk Loguetown:
-![image](https://user-images.githubusercontent.com/45300477/141609168-2f1aee3f-b228-49b4-b80c-6eecbe50ddd5.png)
-IP untuk Alabasta:
-![image](https://user-images.githubusercontent.com/45300477/141609154-7fa99857-92ce-407a-9a67-0d5cb314ebfb.png)
+IP untuk Loguetown:<br>
+![image](https://user-images.githubusercontent.com/45300477/141609168-2f1aee3f-b228-49b4-b80c-6eecbe50ddd5.png)<br>
+IP untuk Alabasta:<br>
+![image](https://user-images.githubusercontent.com/45300477/141609154-7fa99857-92ce-407a-9a67-0d5cb314ebfb.png)<br>
 
 ## 4. Client yang melalui Switch3 mendapatkan range IP dari [prefix IP].3.30 - [prefix IP].3.50
 Atur subnet 10.14.3.0 di `/etc/dhcp/dhcpd.conf` dengan
@@ -123,7 +123,7 @@ subnet 10.14.3.0 netmask 255.255.255.0 {
 ```
 
 ## 5. Klien mendapat DNS dari EnniesLobby dan terhubung dengan internet
-Sudah bisa juga karena Loguetown sudah menginstall package dan melakukan update
+Sudah bisa juga karena Loguetown sudah menginstall package dan melakukan update<br>
 ![image](https://user-images.githubusercontent.com/45300477/141609421-b34d9d3d-9eb3-4cc7-a8da-3ab77df81cb7.png)
 ![image](https://user-images.githubusercontent.com/45300477/141609428-0366e8ed-8251-4eb2-8d59-ca63ec9d4c4e.png)
 
@@ -131,15 +131,14 @@ Sudah bisa juga karena Loguetown sudah menginstall package dan melakukan update
 ![image](https://user-images.githubusercontent.com/45300477/141609472-043afdf7-e506-4b05-bb95-5b06151ccef5.png)
 
 ## 7. Skypie memiliki alamat IP yang tetap
-Setting pada Jipangu:
-![image](https://user-images.githubusercontent.com/45300477/141609502-5c8bedec-c744-4a7e-b15e-4ab6368263cb.png)
-IP Skypie:
-![image](https://user-images.githubusercontent.com/45300477/141609514-8da96ce6-c069-495b-beea-83c8f4ac8248.png)
-Konfig:
+Setting pada Jipangu:<br>
+![image](https://user-images.githubusercontent.com/45300477/141609502-5c8bedec-c744-4a7e-b15e-4ab6368263cb.png)<br>
+IP Skypie:<br>
+![image](https://user-images.githubusercontent.com/45300477/141609514-8da96ce6-c069-495b-beea-83c8f4ac8248.png)<br>
+Konfig:<br>
 ![image](https://user-images.githubusercontent.com/45300477/141609532-567dc0ae-f635-4a3c-9d66-de5a9d690a6d.png)
 
-## 8. Loguetown digunakan sebagai client Proxy agar transaksi jual beli dapat terjamin keamanannya, juga untuk menceg
-ah kebocoran data transaksi.
+## 8. Loguetown digunakan sebagai client Proxy agar transaksi jual beli dapat terjamin keamanannya, juga untuk mencegah kebocoran data transaksi.
 ![image](https://user-images.githubusercontent.com/45300477/141609655-93d9c388-b7e2-4690-9c3b-851740451a0e.png)
 ![image](https://user-images.githubusercontent.com/45300477/141609672-254055d9-1d8d-4b7b-ad78-826144cfce47.png)
 ![image](https://user-images.githubusercontent.com/45300477/141609720-356f6bb0-996a-4326-80e1-69cf95fe07b5.png)
@@ -149,8 +148,19 @@ ah kebocoran data transaksi.
 ![image](https://user-images.githubusercontent.com/45300477/141609883-8cfeba3c-8787-4ef5-af48-4667c46f597f.png)
 ![image](https://user-images.githubusercontent.com/45300477/141609920-8d3bcdd6-578b-4b5a-90ba-784480a279fa.png)
 
+Login<br>
+![image](https://user-images.githubusercontent.com/45300477/141611431-86f7a98b-e0c6-4e3c-ac3e-3ea335360646.png)
+![image](https://user-images.githubusercontent.com/45300477/141611460-18ffbce9-5730-4ca6-a2c6-44f52a45738f.png)
+
+
 ## 10. Transaksi tidak dilakukan setiap hari
 ![image](https://user-images.githubusercontent.com/45300477/141609974-514d30e0-7e98-440b-8e77-cfe7fdd0b596.png)
+
+Jika waktu sesuai (mengakses google.com):<br>
+![image](https://user-images.githubusercontent.com/45300477/141611589-c99b63e1-700a-48af-ba0b-39c601f7b0d6.png)
+
+Jika dilakukan di luar waktu yang ditentukan:<br>
+![image](https://user-images.githubusercontent.com/45300477/141611455-1163fb2d-c8af-434d-9e96-27707a0f0815.png)
 
 
 
